@@ -4,7 +4,7 @@
 - Android Studio
 - VsCode
 - Firebase Studio
-Como testar
+# Como testar
 - 1 Clonar o repositório
 - 2 Abrir com Android Studio ou VsCode
 - 3 Em um terminal, executar o comando:
